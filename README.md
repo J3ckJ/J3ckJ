@@ -1,6 +1,7 @@
-Ⓜ️oscow🇷🇺
-👨🏻‍🎓Студент РТУ МИРЭА📚
-🎧DJ, Post-Production💻
+Ⓜ️oscow
+👨🏻‍🎓Student of MISIS📚
+Information Security Specialist
+🎧Post-Production💻
 
 <!---
 J3ckJ/J3ckJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
