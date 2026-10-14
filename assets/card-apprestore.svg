@@ -14,7 +14,7 @@
   <text class="t" x="28" y="72" font-size="13.5" fill="#8b949e">Restore offloaded and deleted iOS apps via USB</text>
   <circle cx="34" cy="108" r="6" fill="#3572A5"/>
   <text class="t" x="46" y="113" font-size="13" fill="#c9d1d9">Python</text>
-  <text class="t" x="150" y="113" font-size="13" fill="#8b949e">★ 3</text>
+  <text class="t" x="150" y="113" font-size="13" fill="#8b949e">★ 55</text>
   <rect x="290" y="92" width="86" height="26" rx="8" fill="#21262d" stroke="#30363d"/>
-  <text class="t" x="333" y="110" font-size="13" font-weight="600" fill="#58a6ff" text-anchor="middle">v0.2.4</text>
+  <text class="t" x="333" y="110" font-size="13" font-weight="600" fill="#58a6ff" text-anchor="middle">v0.4.0</text>
 </svg>

@@ -19,15 +19,17 @@
 ### Проекты
 
 <p align="center">
-  <a href="https://github.com/J3ckJ/AppRestore"><img src="assets/card-apprestore.svg" alt="AppRestore" width="32%" /></a>
-  <a href="https://github.com/J3ckJ/CleanTools"><img src="assets/card-cleantools.svg" alt="CleanTools" width="32%" /></a>
-  <a href="https://github.com/J3ckJ/EL-Workspace"><img src="assets/card-el-workspace.svg" alt="EL-Workspace" width="32%" /></a>
+  <a href="https://github.com/J3ckJ/AppRestore"><img src="assets/card-apprestore.svg" alt="AppRestore" width="45%" /></a>
+  <a href="https://github.com/J3ckJ/CleanTools"><img src="assets/card-cleantools.svg" alt="CleanTools" width="45%" /></a>
+  <a href="https://github.com/J3ckJ/EL-Workspace"><img src="assets/card-el-workspace.svg" alt="EL-Workspace" width="45%" /></a>
+  <a href="https://github.com/J3ckJ/FlyDrop"><img src="assets/card-flydrop.svg" alt="FlyDrop" width="45%" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/J3ckJ/AppRestore/releases/latest"><img src="https://img.shields.io/github/v/release/J3ckJ/AppRestore?style=for-the-badge&label=AppRestore&color=238636" alt="AppRestore release" /></a>
   <a href="https://github.com/J3ckJ/CleanTools/releases/latest"><img src="https://img.shields.io/github/v/release/J3ckJ/CleanTools?style=for-the-badge&label=CleanTools&color=1f6feb" alt="CleanTools release" /></a>
   <a href="https://github.com/J3ckJ/EL-Workspace/releases/latest"><img src="https://img.shields.io/github/v/release/J3ckJ/EL-Workspace?style=for-the-badge&label=EL-Workspace&color=8957e5" alt="EL-Workspace release" /></a>
+  <a href="https://github.com/J3ckJ/FlyDrop/releases/latest"><img src="https://img.shields.io/github/v/release/J3ckJ/FlyDrop?style=for-the-badge&label=FlyDrop&color=d29922" alt="FlyDrop release" /></a>
 </p>
 
 ---
